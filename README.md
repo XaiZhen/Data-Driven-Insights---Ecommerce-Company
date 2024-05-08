@@ -105,3 +105,49 @@ The motivation for people to buy gifts online is that they can browse through va
 <p align="center">
 <img width="850" alt="image" src="https://github.com/XaiZhen/Data-Driven-Insights---Ecommerce-Company/assets/157572976/177fc1f9-3308-4297-9754-076f1d547f9b">
 </p>
+
+
+<h2>Section 5: Details to consider when designing the dashboard
+ </h2>
+
+1. By analyzing which region of the world ShopOnline has the most customers, in the future ShopOnline can formulate better sales strategies by analyzing the buying behavior of customers in this region.
+2. A comparison of website sales in a year can be done through line charts to show sales trends
+3. Whether there is a linear relationship between price and sales volume.
+4. By examining the statistics, the top 10 best-selling products in ShopOnline Worldwide are analyzed, so company can make future decisions whether to make replenishment or adjustments.
+5. Since the majority of ShopOnline's customers are concentrated in the United Kingdom, it is necessary to investigate the best-selling products in the UK.
+
+<br>
+
+<h2>Section 6: Insights
+ </h2>
+Analysis of the data set reveals that most of ShopOnline's sales are dominated by the United Kingdom, and World War 2 Gliders Asstd Designs is the best-selling product, both globally and in the UK market. It is worth pointing out that, in contrast to the conclusion that Asians prefer gift-giving as found in the comparison between Asian and Western cultures in 2(a), a remarkably small proportion of the Asian market was found in the analysis of ShopOnline. This may be because ShopOnline does not advertise heavily in the Asian market or other factors, but truthfully if the cost of expanding into the Asian market is relatively low, ShopOnline could try to invest more into the Asian market in the future by making and sell more products.
+
+
+<h2>Reference List
+ </h2>
+ Berinato, S. (2016). Visualizations that really work. Harvard business review, 94(6), 93-100. https://www.academia.edu/download/54175139/Visualizations_That_Really_Work.pdf 
+
+Buddhadev, K. (2018). How does Alibaba Work: Insights into Business Model and Revenue Analysis – NCrypted Websites Blog. The Ncrypted Blog. Retrieved 13 September 2022, from https://www.ncrypted.net/blog/how-does-alibaba-work-insights-into-business-model-and-revenue-analysis/. 
+
+D'Souza, C. (2003). An inference of gift-giving within Asian business culture. Asia Pacific Journal of Marketing and Logistics, 15(1), 27-38. https://doi-org.ezproxy.library.sydney.edu.au/10.1108/13555850310765051 
+
+Deloitte. (2015). The Deloitte consumer review Made-to-order: the rise of mass personalization. https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/consumer-business/ch-en-consumer-business-made-to-order-consumer-review.pdf
+
+Erlyana, Y., & Hartono, H. (2017). Business model in marketplace industry using business model canvas approach: An e-commerce case study. IOP Conference Series: Materials Science And Engineering, 277, 012066. https://doi.org/10.1088/1757-899x/277/1/012066 
+
+Goodwin, C., Smith, K. L., & Spiggle, S. (1990). Gift giving: Consumer motivation and the gift purchase process. ACR North American Advances. https://www.acrwebsite.org/volumes/7086/volumes/v17/NA-17/full
+
+Kumar, A., & Thakur, Y. S. (2016). BEYOND BUYING TO SHOPPERS: MOTIVATION TOWARDS ONLINE SHOPPING. BVIMSR’s Journal of Management Research, 8(1), 31-36. http://ezproxy.library.usyd.edu.au/login?url=https://www.proquest.com/scholarly-journals/beyond-buying-shoppers-motivation-towards-online/docview/1789989673/se-2
+
+Lamkhede, S., & Kofler, C. (2021). Recommendations and Results Organization in Netflix Search. Retrieved 13 September 2020, from  https://research.netflix.com/publication/Recommendations%20and%20Results%20Organization%20in%20Netflix%20Search 
+
+Moyo, J. (2022). eBay Business Model Canvas: How it Jumpstarted the e-Commerce industry | Profitable Business Models. Profitable Business Models. Retrieved 13 September 2022, from https://profitablebusinessmodels.com/ebay-business-model-canvas/. 
+
+Pereira, D. (2022). Alibaba Business Model. Business Model Analyst. Retrieved 13 September 2022, from https://businessmodelanalyst.com/alibaba-business-model/. 
+
+Snowden, D. J., & Boone, M. E. (2007). A leader's framework for decision making. Harvard business review, 85(11), 68. https://www.systemswisdom.com/sites/default/files/Snowdon-and-Boone-A-Leader's-Framework-for-Decision-Making_0.pdf 
+
+UNCTAD. (2022). COVID-19 has changed online shopping forever, survey shows. Retrieved 14 September 2022, from https://unctad.org/news/covid-19-has-changed-online-shopping-forever-survey-shows. 
+
+Yadav, K., & Sharma, D. (2014). SWOT analysis of e-commerce. Advance in Electronic and Electric Engineering, 4(6), 663-638. https://d1wqtxts1xzle7.cloudfront.net/57918716/aeeev4n6spl_19-with-cover-page-v2.pdf?Expires=1663265877&Signature=WprkUlJyXRHd38UytQMSvl9UDCZcnImjNb80smjowf81hcVByz6wHzJ3TZJvjex8lkMLt61tnSnHavj2nDXA8PhdHw53CFBDHVwAXRucv8Ilw15gpMgOSf-MjxoCRePIVQVkY85jEY1GINQtaBntSNbxI~CpAZiVabHBq3V8TE-gviDE7ceuyyFto6PVewQ8s84aT-woOSwlqNrBUHhLi1AwP5vex7KUoWjGj-a0IL-uZ3mUI5wmRr7DUZo2ZWS7Hz9S-47S27nqVczSX0Ylip8zx7dP2RrCzgLt1HfbTvXEaHM1op4tVji1nmo93egY5iXbUbA33~0KhzMTZL6~9g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA 
+
